@@ -1,0 +1,16 @@
+C:\desafioDIO\CadastroUsuario\bin\Debug\net5.0\CadastroUsuario.exe
+C:\desafioDIO\CadastroUsuario\bin\Debug\net5.0\CadastroUsuario.deps.json
+C:\desafioDIO\CadastroUsuario\bin\Debug\net5.0\CadastroUsuario.runtimeconfig.json
+C:\desafioDIO\CadastroUsuario\bin\Debug\net5.0\CadastroUsuario.runtimeconfig.dev.json
+C:\desafioDIO\CadastroUsuario\bin\Debug\net5.0\CadastroUsuario.dll
+C:\desafioDIO\CadastroUsuario\bin\Debug\net5.0\ref\CadastroUsuario.dll
+C:\desafioDIO\CadastroUsuario\bin\Debug\net5.0\CadastroUsuario.pdb
+C:\desafioDIO\CadastroUsuario\obj\Debug\net5.0\CadastroUsuario.csproj.AssemblyReference.cache
+C:\desafioDIO\CadastroUsuario\obj\Debug\net5.0\CadastroUsuario.GeneratedMSBuildEditorConfig.editorconfig
+C:\desafioDIO\CadastroUsuario\obj\Debug\net5.0\CadastroUsuario.AssemblyInfoInputs.cache
+C:\desafioDIO\CadastroUsuario\obj\Debug\net5.0\CadastroUsuario.AssemblyInfo.cs
+C:\desafioDIO\CadastroUsuario\obj\Debug\net5.0\CadastroUsuario.csproj.CoreCompileInputs.cache
+C:\desafioDIO\CadastroUsuario\obj\Debug\net5.0\CadastroUsuario.dll
+C:\desafioDIO\CadastroUsuario\obj\Debug\net5.0\ref\CadastroUsuario.dll
+C:\desafioDIO\CadastroUsuario\obj\Debug\net5.0\CadastroUsuario.pdb
+C:\desafioDIO\CadastroUsuario\obj\Debug\net5.0\CadastroUsuario.genruntimeconfig.cache
